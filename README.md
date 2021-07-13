@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Vue.js & Express.js
 - 🌱 I’m currently learning WebRTC
 - 🎓 I'm studying Computer Engineering at Çukurova University
-## ![corxjs's github stats](https://github-readme-stats.vercel.app/api?username=corxjs&show_icons=true&theme=radical)
+## ![corxjs's github stats](https://github-readme-stats.vercel.app/api?username=codercor&show_icons=true&theme=radical)
 
 
 # Interests
