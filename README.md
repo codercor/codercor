@@ -14,4 +14,4 @@
 [![](https://img.shields.io/badge/webrtc-1A1918?style=for-the-badge&logo=webrtc)]()
 [![](https://img.shields.io/badge/aws-1A1918?style=for-the-badge&logo=amazon-aws)]()
 [![](https://img.shields.io/badge/azure-1A1918?style=for-the-badge&logo=microsoft-azure)]()
-### ![Mail Badge](https://img.shields.io/badge/corxjs@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:corxjs@gmail.com)
+### ![Mail Badge](https://img.shields.io/badge/mustafa.cor@outlook.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mustafa.cor@outlook.com)
