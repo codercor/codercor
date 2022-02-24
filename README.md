@@ -1,6 +1,6 @@
 # Hi there 👋 Mustafa Çor's Github
-- 🔭 I’m currently working on Vue.js & Express.js
-- 🌱 I’m currently learning WebRTC
+- 🔭 I’m currently working on Web Applications with Node/React/AWS services
+- 🌱 I’m currently learning Mobile Development
 - 🎓 I'm studying Computer Engineering at Çukurova University
 ## ![corxjs's github stats](https://github-readme-stats.vercel.app/api?username=codercor&show_icons=true&theme=radical)
 
@@ -13,5 +13,6 @@
 [![](https://img.shields.io/badge/vuetify-1A1918?style=for-the-badge&logo=vuetify)]()
 [![](https://img.shields.io/badge/webrtc-1A1918?style=for-the-badge&logo=webrtc)]()
 [![](https://img.shields.io/badge/aws-1A1918?style=for-the-badge&logo=amazon-aws)]()
-[![](https://img.shields.io/badge/azure-1A1918?style=for-the-badge&logo=microsoft-azure)]()
-### ![Mail Badge](https://img.shields.io/badge/mustafa.cor@outlook.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mustafa.cor@outlook.com)
+[![](https://img.shields.io/badge/S3-critical?style=for-the-badge&logo=amazon-s3&logoColor=white)]()
+[![](https://img.shields.io/badge/dynamodb-critical?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)]()
+### ![Mail Badge](https://img.shields.io/badge/mustafa.cor@outlook.com-blueviolet?style=for-the-badge&logo=microsoft&logoColor=white&link=mailto:mustafa.cor@outlook.com)
