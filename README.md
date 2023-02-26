@@ -1,11 +1,13 @@
 # Hi there 👋 Mustafa Çor's Github
-- 🔭 I’m currently working on Web Applications with Node/React/AWS services
-- 🌱 I’m currently learning Mobile Development
-- 🎓 I'm studying Computer Engineering at Çukurova University
+- 🔭 I’m currently working on Web Applications with Nest & Next JS frameworks on Coinoxs
+- 🌱 I’m currently learning software architecture and AI
+- 🎓 I'm studying Computer Engineering at Cukurova University
 ## ![corxjs's github stats](https://github-readme-stats.vercel.app/api?username=codercor&show_icons=true&theme=radical)
 
 
 # Interests
+[![](https://img.shields.io/badge/nest.js-1A1918?style=for-the-badge&logo=nestjs)]()
+[![](https://img.shields.io/badge/Next.js-1A1918?style=for-the-badge&logo=next.js)]()
 [![](https://img.shields.io/badge/javascript-1A1918?style=for-the-badge&logo=javascript)]()
 [![](https://img.shields.io/badge/node.js-1A1918?style=for-the-badge&logo=node.js)]()
 [![](https://img.shields.io/badge/react-1A1918?style=for-the-badge&logo=react)]()
