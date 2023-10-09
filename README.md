@@ -1,6 +1,5 @@
 # Hi there 👋 Mustafa Çor's Github
-- 🔭 I’m currently working on Web Applications with Nest & Next JS frameworks on Coinoxs
-- 🌱 I’m currently learning software architecture and AI
+
 ## ![corxjs's github stats](https://github-readme-stats.vercel.app/api?username=codercor&show_icons=true&theme=radical)
 
 
