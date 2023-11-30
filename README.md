@@ -18,3 +18,5 @@
 [![](https://img.shields.io/badge/S3-critical?style=for-the-badge&logo=amazon-s3&logoColor=white)]()
 [![](https://img.shields.io/badge/dynamodb-critical?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)]()
 ### ![Mail Badge](https://img.shields.io/badge/mustafa.cor@outlook.com-blueviolet?style=for-the-badge&logo=microsoft&logoColor=white&link=mailto:mustafa.cor@outlook.com)
+
+![](https://komarev.com/ghpvc/?username=codercor)
