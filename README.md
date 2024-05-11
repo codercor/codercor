@@ -1,7 +1,5 @@
 # Hi there 👋 Mustafa Çor's Github
-🌱 I’m currently learning Go, WebGL
-
-💡 I'm interested in *
+🐴
 ## ![corxjs's github stats](https://github-readme-stats.vercel.app/api?username=codercor&show_icons=true&theme=radical)
 
 
