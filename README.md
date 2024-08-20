@@ -2,6 +2,7 @@
 🐴
 ## ![corxjs's github stats](https://github-readme-stats.vercel.app/api?username=codercor&show_icons=true&theme=radical)
 
+## ![Codercor github snake](./github-user-contribution.svg)
 
 # Interests
 [![](https://img.shields.io/badge/nest.js-1A1918?style=for-the-badge&logo=nestjs)]()
