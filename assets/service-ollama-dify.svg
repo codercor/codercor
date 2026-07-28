@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Ollama FLUX.2 tool service panel</title>
+  <desc id="desc">A Dify plugin pipeline that sends workflow prompts to Ollama's OpenAI-compatible image endpoint and returns PNG files.</desc>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#737A70" stroke-width="1" opacity=".065"/>
+    </pattern>
+    <marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto">
+      <path d="M0 0L7 3.5 0 7Z" fill="#A9B86E"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="1198" height="228" rx="2" fill="#151713" stroke="#737A70" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="35" fill="#20231F"/>
+  <rect x="17" y="13" width="9" height="9" fill="#D19A4A"/>
+  <text x="37" y="23" fill="#E7E1CF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">svc.local-image-tool — on demand</text>
+  <text x="1178" y="23" fill="#737A70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" text-anchor="end">UNIT 04 // LOCAL TOOLING</text>
+  <rect x="12" y="47" width="1176" height="137" fill="url(#grid)"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="30" y="76" fill="#D19A4A" font-size="13">04 / OPENAI-COMPATIBLE ADAPTER</text>
+    <text x="30" y="113" fill="#E7E1CF" font-size="22" font-weight="700">OLLAMA FLUX.2 TOOL</text>
+    <text x="31" y="143" fill="#737A70" font-size="12">DIFY WORKFLOWS · LOCAL INFERENCE · FILE OUTPUTS</text>
+
+    <g transform="translate(450 62)">
+      <rect width="120" height="72" rx="1" fill="#20231F" stroke="#737A70"/>
+      <text x="12" y="21" fill="#737A70" font-size="10">FLOW / 01</text>
+      <text x="60" y="49" fill="#E7E1CF" font-size="14" text-anchor="middle">DIFY</text>
+      <text x="60" y="63" fill="#A9B86E" font-size="9" text-anchor="middle">PROMPT + VARS</text>
+    </g>
+    <path d="M576 98H586" stroke="#A9B86E" stroke-width="2" marker-end="url(#arrow)"/>
+    <g transform="translate(594 62)">
+      <rect width="120" height="72" rx="1" fill="#20231F" stroke="#737A70"/>
+      <text x="12" y="21" fill="#737A70" font-size="10">PLUGIN / 02</text>
+      <text x="60" y="49" fill="#E7E1CF" font-size="14" text-anchor="middle">PY TOOL</text>
+      <text x="60" y="63" fill="#A9B86E" font-size="9" text-anchor="middle">VALIDATE + CALL</text>
+    </g>
+    <path d="M720 98H730" stroke="#A9B86E" stroke-width="2" marker-end="url(#arrow)"/>
+    <g transform="translate(738 62)">
+      <rect width="120" height="72" rx="1" fill="#20231F" stroke="#737A70"/>
+      <text x="12" y="21" fill="#737A70" font-size="10">HTTP / 03</text>
+      <text x="60" y="45" fill="#E7E1CF" font-size="12" text-anchor="middle">/v1/images</text>
+      <text x="60" y="63" fill="#D19A4A" font-size="9" text-anchor="middle">OPENAI CONTRACT</text>
+    </g>
+    <path d="M864 98H874" stroke="#A9B86E" stroke-width="2" marker-end="url(#arrow)"/>
+    <g transform="translate(882 62)">
+      <rect width="120" height="72" rx="1" fill="#20231F" stroke="#737A70"/>
+      <text x="12" y="21" fill="#737A70" font-size="10">MODEL / 04</text>
+      <text x="60" y="49" fill="#E7E1CF" font-size="14" text-anchor="middle">FLUX.2</text>
+      <text x="60" y="63" fill="#A9B86E" font-size="9" text-anchor="middle">OLLAMA LOCAL</text>
+    </g>
+    <path d="M1008 98H1018" stroke="#A9B86E" stroke-width="2" marker-end="url(#arrow)"/>
+    <g transform="translate(1026 62)">
+      <rect width="120" height="72" rx="1" fill="#20231F" stroke="#737A70"/>
+      <text x="10" y="21" fill="#737A70" font-size="10">OUT / 05</text>
+      <text x="60" y="49" fill="#E7E1CF" font-size="14" text-anchor="middle">PNG/BLOB</text>
+      <text x="60" y="63" fill="#A9B86E" font-size="9" text-anchor="middle">FILE + META</text>
+    </g>
+
+    <rect x="1" y="184" width="1198" height="45" fill="#20231F"/>
+    <path d="M1 184H1199" stroke="#737A70"/>
+    <text x="28" y="212" fill="#737A70" font-size="12">PYTHON 3.12</text>
+    <text x="173" y="212" fill="#737A70" font-size="12">DIFY SDK</text>
+    <text x="284" y="212" fill="#737A70" font-size="12">OLLAMA</text>
+    <text x="380" y="212" fill="#737A70" font-size="12">LOCAL AI</text>
+    <text x="487" y="212" fill="#737A70" font-size="12">REMOTE DEBUG</text>
+    <text x="1170" y="212" fill="#A9B86E" font-size="12" text-anchor="end">OPEN REPOSITORY →</text>
+  </g>
+</svg>
