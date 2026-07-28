@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="220" viewBox="0 0 820 220" role="img" aria-labelledby="profile-status-title profile-status-description">
+  <title id="profile-status-title">codercor · GitHub system status</title>
+  <desc id="profile-status-description">codercor&apos;s public GitHub status: 11 years on GitHub, 37 non-fork public repositories, 31 stars, and 22 followers.</desc>
+  <defs>
+    <clipPath id="language-bar-clip">
+      <rect x="24" y="148" width="772" height="8" rx="4" />
+    </clipPath>
+  </defs>
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      fill: #1f2328;
+      text-rendering: geometricPrecision;
+    }
+    .title {
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.7px;
+    }
+    .meta {
+      fill: #59636e;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.7px;
+    }
+    .label {
+      fill: #59636e;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.65px;
+    }
+    .metric-value {
+      font-size: 20px;
+      font-weight: 700;
+    }
+    .note {
+      fill: #59636e;
+      font-size: 8px;
+      letter-spacing: 0.45px;
+    }
+    .legend {
+      fill: #59636e;
+      font-size: 10px;
+      font-weight: 600;
+    }
+    .latest {
+      font-size: 11px;
+      font-weight: 650;
+    }
+    .reveal {
+      animation: reveal 420ms ease-out forwards;
+    }
+    .delay-1 { animation-delay: 70ms; }
+    .delay-2 { animation-delay: 140ms; }
+    .delay-3 { animation-delay: 210ms; }
+    .pulse {
+      transform-origin: 25px 27px;
+      animation: pulse 2.8s ease-in-out infinite;
+    }
+    @keyframes reveal {
+      from { opacity: 0; transform: translateY(3px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.55; transform: scale(0.82); }
+      50% { opacity: 1; transform: scale(1); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal, .pulse {
+        animation: none !important;
+        opacity: 1;
+        transform: none;
+      }
+    }
+  </style>
+
+  <rect x="0.5" y="0.5" width="819" height="219" rx="7.5" fill="#ffffff" stroke="#d0d7de" />
+
+  <g class="reveal delay-1">
+    <circle class="pulse" cx="25" cy="27" r="4" fill="#1a7f37" />
+    <text x="40" y="31" class="title">CODERCOR / SYSTEM STATUS</text>
+    <text x="638" y="30" class="meta">PUBLIC GITHUB TELEMETRY</text>
+    <line x1="24" y1="43.5" x2="796" y2="43.5" stroke="#d0d7de" />
+  </g>
+
+  
+    <g class="reveal delay-1">
+      
+      <text x="24" y="76" class="label">GITHUB AGE</text>
+      <text x="24" y="101" class="metric-value">11 YEARS</text>
+      <text x="24" y="114" class="note">SINCE 2015</text>
+    </g>
+    <g class="reveal delay-2">
+      <line x1="208" y1="61" x2="208" y2="116" stroke="#d0d7de" />
+      <text x="220" y="76" class="label">PUBLIC REPOS</text>
+      <text x="220" y="101" class="metric-value">37</text>
+      <text x="220" y="114" class="note">NON-FORK REPOS</text>
+    </g>
+    <g class="reveal delay-3">
+      <line x1="404" y1="61" x2="404" y2="116" stroke="#d0d7de" />
+      <text x="416" y="76" class="label">TOTAL STARS</text>
+      <text x="416" y="101" class="metric-value">31</text>
+      <text x="416" y="114" class="note">NON-FORK REPOS</text>
+    </g>
+    <g class="reveal delay-3">
+      <line x1="600" y1="61" x2="600" y2="116" stroke="#d0d7de" />
+      <text x="612" y="76" class="label">FOLLOWERS</text>
+      <text x="612" y="101" class="metric-value">22</text>
+      <text x="612" y="114" class="note">PUBLIC PROFILE</text>
+    </g>
+
+  
+    <g class="reveal delay-3">
+      <text x="24" y="139" class="label">LANGUAGE DISTRIBUTION · NON-FORK PUBLIC REPOSITORIES</text>
+      <rect x="24" y="148" width="772" height="8" rx="4" fill="#f6f8fa" />
+      <g clip-path="url(#language-bar-clip)"><rect x="24.00" y="148" width="526.53" height="8" fill="#0969da" /><rect x="550.53" y="148" width="158.57" height="8" fill="#8250df" /><rect x="709.10" y="148" width="45.99" height="8" fill="#1a7f37" /><rect x="755.10" y="148" width="25.47" height="8" fill="#bc4c00" /><rect x="780.57" y="148" width="8.08" height="8" fill="#1b7c83" /></g>
+      
+        <circle cx="25" cy="174" r="3.5" fill="#0969da" />
+        <text x="34" y="178" class="legend">JavaScript 68%</text>
+        <circle cx="179" cy="174" r="3.5" fill="#8250df" />
+        <text x="188" y="178" class="legend">TypeScript 21%</text>
+        <circle cx="333" cy="174" r="3.5" fill="#1a7f37" />
+        <text x="342" y="178" class="legend">CSS 6%</text>
+        <circle cx="487" cy="174" r="3.5" fill="#bc4c00" />
+        <text x="496" y="178" class="legend">HTML 3%</text>
+        <circle cx="641" cy="174" r="3.5" fill="#1b7c83" />
+        <text x="650" y="178" class="legend">Vue 1%</text>
+      
+    </g>
+
+  <g class="reveal delay-3">
+    <line x1="24" y1="190.5" x2="796" y2="190.5" stroke="#d0d7de" />
+    <text x="24" y="208" class="label">LATEST PUSH</text>
+    <circle cx="116" cy="204" r="3" fill="#0969da" />
+    <text x="127" y="208" class="latest">ollama-flux2-klein-image-tool</text>
+    <text x="732" y="208" class="meta">2026-05-20</text>
+  </g>
+</svg>
