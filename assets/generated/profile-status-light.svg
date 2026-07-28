@@ -84,9 +84,9 @@
     <line x1="24" y1="43.5" x2="796" y2="43.5" stroke="#d0d7de" />
   </g>
 
-  
+
     <g class="reveal delay-1">
-      
+
       <text x="24" y="76" class="label">GITHUB AGE</text>
       <text x="24" y="101" class="metric-value">11 YEARS</text>
       <text x="24" y="114" class="note">SINCE 2015</text>
@@ -110,12 +110,12 @@
       <text x="612" y="114" class="note">PUBLIC PROFILE</text>
     </g>
 
-  
+
     <g class="reveal delay-3">
       <text x="24" y="139" class="label">LANGUAGE DISTRIBUTION · NON-FORK PUBLIC REPOSITORIES</text>
       <rect x="24" y="148" width="772" height="8" rx="4" fill="#f6f8fa" />
       <g clip-path="url(#language-bar-clip)"><rect x="24.00" y="148" width="526.53" height="8" fill="#0969da" /><rect x="550.53" y="148" width="158.57" height="8" fill="#8250df" /><rect x="709.10" y="148" width="45.99" height="8" fill="#1a7f37" /><rect x="755.10" y="148" width="25.47" height="8" fill="#bc4c00" /><rect x="780.57" y="148" width="8.08" height="8" fill="#1b7c83" /></g>
-      
+
         <circle cx="25" cy="174" r="3.5" fill="#0969da" />
         <text x="34" y="178" class="legend">JavaScript 68%</text>
         <circle cx="179" cy="174" r="3.5" fill="#8250df" />
@@ -126,7 +126,7 @@
         <text x="496" y="178" class="legend">HTML 3%</text>
         <circle cx="641" cy="174" r="3.5" fill="#1b7c83" />
         <text x="650" y="178" class="legend">Vue 1%</text>
-      
+
     </g>
 
   <g class="reveal delay-3">
