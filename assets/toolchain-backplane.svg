@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering toolchain backplane</title>
+  <desc id="desc">A workstation backplane connecting language, runtime, data, and delivery modules.</desc>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#737A70" stroke-width="1" opacity=".075"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="318" rx="2" fill="#151713" stroke="#737A70" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="38" fill="#20231F"/>
+  <rect x="18" y="14" width="10" height="10" fill="#A9B86E"/>
+  <text x="39" y="25" fill="#E7E1CF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">/dev/backplane0 — 16 modules detected</text>
+  <text x="1178" y="25" fill="#737A70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" text-anchor="end">BUS 64-BIT // HEALTHY</text>
+  <rect x="12" y="50" width="1176" height="218" fill="url(#grid)"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <path d="M82 205H1118" stroke="#D19A4A" stroke-width="5"/>
+    <path d="M82 213H1118" stroke="#737A70" stroke-width="1"/>
+    <text x="82" y="239" fill="#737A70" font-size="11">SYSTEM BUS / CONTRACTS · EVENTS · QUERIES · ARTIFACTS</text>
+
+    <g transform="translate(60 68)">
+      <rect width="250" height="116" rx="1" fill="#20231F" stroke="#737A70"/>
+      <rect x="12" y="12" width="8" height="8" fill="#A9B86E"/>
+      <text x="29" y="21" fill="#D19A4A" font-size="11">SLOT A0 / LANG</text>
+      <text x="18" y="55" fill="#E7E1CF" font-size="17" font-weight="700">TS  JS  PY  SQL</text>
+      <text x="18" y="84" fill="#737A70" font-size="11">TYPED APPLICATIONS</text>
+      <text x="18" y="102" fill="#737A70" font-size="11">DATA + AUTOMATION</text>
+      <path d="M125 116V137" stroke="#D19A4A" stroke-width="4"/>
+    </g>
+
+    <g transform="translate(337 68)">
+      <rect width="250" height="116" rx="1" fill="#20231F" stroke="#737A70"/>
+      <rect x="12" y="12" width="8" height="8" fill="#A9B86E"/>
+      <text x="29" y="21" fill="#D19A4A" font-size="11">SLOT B0 / RUNTIME</text>
+      <text x="18" y="55" fill="#E7E1CF" font-size="15" font-weight="700">NODE  NEXT  NEST</text>
+      <text x="18" y="80" fill="#E7E1CF" font-size="15" font-weight="700">FASTAPI</text>
+      <text x="18" y="102" fill="#737A70" font-size="11">SERVICES + PRODUCT SURFACES</text>
+      <path d="M125 116V137" stroke="#D19A4A" stroke-width="4"/>
+    </g>
+
+    <g transform="translate(614 68)">
+      <rect width="250" height="116" rx="1" fill="#20231F" stroke="#737A70"/>
+      <rect x="12" y="12" width="8" height="8" fill="#A9B86E"/>
+      <text x="29" y="21" fill="#D19A4A" font-size="11">SLOT C0 / DATA</text>
+      <text x="18" y="55" fill="#E7E1CF" font-size="15" font-weight="700">POSTGRES  SNOWFLAKE</text>
+      <text x="18" y="80" fill="#E7E1CF" font-size="15" font-weight="700">DBT  REDIS</text>
+      <text x="18" y="102" fill="#737A70" font-size="11">MODEL · QUERY · CACHE</text>
+      <path d="M125 116V137" stroke="#D19A4A" stroke-width="4"/>
+    </g>
+
+    <g transform="translate(891 68)">
+      <rect width="250" height="116" rx="1" fill="#20231F" stroke="#737A70"/>
+      <rect x="12" y="12" width="8" height="8" fill="#A9B86E"/>
+      <text x="29" y="21" fill="#D19A4A" font-size="11">SLOT D0 / DELIVERY</text>
+      <text x="18" y="55" fill="#E7E1CF" font-size="15" font-weight="700">DOCKER  AWS  NGINX</text>
+      <text x="18" y="80" fill="#E7E1CF" font-size="15" font-weight="700">GITHUB ACTIONS</text>
+      <text x="18" y="102" fill="#737A70" font-size="11">BUILD · SHIP · OPERATE</text>
+      <path d="M125 116V137" stroke="#D19A4A" stroke-width="4"/>
+    </g>
+
+    <rect x="1" y="268" width="1198" height="51" fill="#20231F"/>
+    <path d="M1 268H1199" stroke="#737A70"/>
+    <rect x="25" y="289" width="8" height="8" fill="#A9B86E"/>
+    <text x="45" y="298" fill="#E7E1CF" font-size="12">BOUNDARIES: EXPLICIT</text>
+    <rect x="281" y="289" width="8" height="8" fill="#A9B86E"/>
+    <text x="301" y="298" fill="#E7E1CF" font-size="12">CONTRACTS: TYPED</text>
+    <rect x="519" y="289" width="8" height="8" fill="#A9B86E"/>
+    <text x="539" y="298" fill="#E7E1CF" font-size="12">DATA: OBSERVABLE</text>
+    <rect x="749" y="289" width="8" height="8" fill="#A9B86E"/>
+    <text x="769" y="298" fill="#E7E1CF" font-size="12">DEPLOY: REPEATABLE</text>
+    <text x="1172" y="298" fill="#D19A4A" font-size="12" text-anchor="end">NO MAGIC BUS</text>
+  </g>
+</svg>
