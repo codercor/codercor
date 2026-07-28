@@ -369,7 +369,8 @@ function renderSvg(data, theme) {
 async function writeAtomically(filename, contents) {
   const destination = path.join(outputDirectory, filename);
   const temporary = `${destination}.tmp`;
-  await writeFile(temporary, contents, "utf8");
+  const normalized = contents.replace(/[ \t]+$/gm, "");
+  await writeFile(temporary, normalized, "utf8");
   await rename(temporary, destination);
 }
 
