@@ -1,7 +1,6 @@
 # Mustafa Çor
 
-**Software Engineer · Data Engineer**<br>
-Building production systems since 2015.
+**Software Engineer · Data Engineer**
 
 [LinkedIn](https://www.linkedin.com/in/codercor) · [Repositories](https://github.com/codercor?tab=repositories)
 
