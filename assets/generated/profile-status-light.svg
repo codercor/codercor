@@ -114,12 +114,12 @@
     <g class="reveal delay-3">
       <text x="24" y="139" class="label">LANGUAGE DISTRIBUTION · NON-FORK PUBLIC REPOSITORIES</text>
       <rect x="24" y="148" width="772" height="8" rx="4" fill="#f6f8fa" />
-      <g clip-path="url(#language-bar-clip)"><rect x="24.00" y="148" width="526.53" height="8" fill="#0969da" /><rect x="550.53" y="148" width="158.57" height="8" fill="#8250df" /><rect x="709.10" y="148" width="45.99" height="8" fill="#1a7f37" /><rect x="755.10" y="148" width="25.47" height="8" fill="#bc4c00" /><rect x="780.57" y="148" width="8.08" height="8" fill="#1b7c83" /></g>
+      <g clip-path="url(#language-bar-clip)"><rect x="24.00" y="148" width="525.39" height="8" fill="#0969da" /><rect x="549.39" y="148" width="158.20" height="8" fill="#8250df" /><rect x="707.59" y="148" width="46.97" height="8" fill="#1a7f37" /><rect x="754.56" y="148" width="26.04" height="8" fill="#bc4c00" /><rect x="780.60" y="148" width="8.06" height="8" fill="#1b7c83" /></g>
 
         <circle cx="25" cy="174" r="3.5" fill="#0969da" />
         <text x="34" y="178" class="legend">JavaScript 68%</text>
         <circle cx="179" cy="174" r="3.5" fill="#8250df" />
-        <text x="188" y="178" class="legend">TypeScript 21%</text>
+        <text x="188" y="178" class="legend">TypeScript 20%</text>
         <circle cx="333" cy="174" r="3.5" fill="#1a7f37" />
         <text x="342" y="178" class="legend">CSS 6%</text>
         <circle cx="487" cy="174" r="3.5" fill="#bc4c00" />
@@ -133,7 +133,7 @@
     <line x1="24" y1="190.5" x2="796" y2="190.5" stroke="#d0d7de" />
     <text x="24" y="208" class="label">LATEST PUSH</text>
     <circle cx="116" cy="204" r="3" fill="#0969da" />
-    <text x="127" y="208" class="latest">ollama-flux2-klein-image-tool</text>
-    <text x="732" y="208" class="meta">2026-05-20</text>
+    <text x="127" y="208" class="latest">personal-website</text>
+    <text x="732" y="208" class="meta">2026-07-31</text>
   </g>
 </svg>
